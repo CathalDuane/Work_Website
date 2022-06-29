@@ -1,5 +1,12 @@
-a{
-    font-size: medium;
+.nav{
+    text-align: center;
+    font-size: 12pt;
+    padding-top: 1rem ;
     color: black;
+    text-decoration: none;
+    margin-bottom: 2rem;
+    font-style: none;
+    
     
 }
+
