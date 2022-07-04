@@ -10,3 +10,19 @@
     
 }
 
+
+
+.top-buffer {
+    /* margin:20px;  */
+    /* margin-bottom: 10%px; */
+}
+
+.footer{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.ml-1 {
+    margin-top: 2rem !important;
+    /* margin-right: 2rem !important; */
+  }
